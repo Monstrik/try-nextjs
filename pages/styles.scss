@@ -1,0 +1,14 @@
+$font-size: 50px;
+$danger:#ef4242;
+
+
+body{
+  //background-color: midnightblue;
+  //color:white;
+}
+.example {
+  font-size: $font-size;
+}
+.red{
+  color: $danger;
+}
